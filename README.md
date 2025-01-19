@@ -1,3 +1,5 @@
+![Ejemplo de imagen externa](https://assets.zabbix.com/dist/images/logo.fd87efa6da9bed3fd8c9.svg)
+
 # Zabbix Template for Cohesity
 
 This repository contains a template to monitor Cohesity nodes using SNMP in Zabbix version 6.0.
